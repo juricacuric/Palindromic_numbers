@@ -1,4 +1,4 @@
-## Telnyx task 
+## Palindromic number task 
 
 As requested in the email, the problem is solved in Java. Maven is used as a package manager. Although commiting binary files to git is usually considered as a bad practice, for this purpose I commited target folder with executable just in case you don't want to build the solution, but only to run it.
 
